@@ -1,4 +1,3 @@
-/* Общие настройки */
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #141e30, #243b55);
@@ -106,7 +105,7 @@ body {
     transform: scale(1.2);
   }
   
-  /* Выполненные задачи */
+
   #task-list li.completed {
     background: #374151;
     color: #9ca3af;
@@ -121,8 +120,7 @@ body {
     left: 10px;
     font-size: 18px;
   }
-  
-  /* Анимации */
+
   @keyframes fadeIn {
     from {
       opacity: 0;
